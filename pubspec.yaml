@@ -41,6 +41,8 @@ dependencies:
   google_fonts: ^6.1.0
   flutter_to_pdf: 0.1.1
   flutter_screenutil: ^5.9.0
+  pdf: ^3.10.7
+  syncfusion_flutter_pdfviewer: ^24.1.46
 
 dev_dependencies:
   flutter_test:
